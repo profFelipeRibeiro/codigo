@@ -29,7 +29,7 @@ nltk.download('stopwords')
 
 
 import openai
-openai.api_key = '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'
+openai.api_key = 'API_CODE'
 
 
 
